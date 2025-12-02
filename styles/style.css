@@ -51,3 +51,13 @@
 .card-image {
   max-width: 100%;
 }
+
+.button-save {
+  margin: auto;
+  inline-size: 335px;
+  block-size: 55px;
+}
+
+.button__text svg {
+  margin-right: 10px;
+}
