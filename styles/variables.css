@@ -7,11 +7,9 @@
                          repeating-linear-gradient(#d3d3d3, transparent 2px),
                          linear-gradient(#e7e7e7 0.01%, #1a1a1a 100%);
   --inline-size: clamp(375px, 100%, 700px);
-  --header-title-size: clamp(3.0625rem, 2.7104rem + 1.5023vw, 4.0625rem);
-  --header-description-size: clamp(0.875rem, 0.6769rem + 0.8451vw, 1.4375rem);
+  --header-title-size: clamp(3.0625rem, 2.6664rem + 1.6901vw, 4.1875rem);
+  --header-description-size: clamp(0.875rem, 0.6549rem + 0.939vw, 1.5rem);
   --header-padding-vertical: clamp(122px, 122px + (8 * (100vw - 375px) / 1065), 130px);
   --header-padding-horizontal: clamp(16px, 16px + (106.5 * (100vw - 375px) / 1065), 122.5px);
+  --label-border: rgba(255, 255, 255, 1);
 }
-/*
-327 368
-758 956*/
