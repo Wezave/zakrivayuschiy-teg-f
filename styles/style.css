@@ -2,7 +2,7 @@
   min-inline-size: 320px;
   min-block-size: 100dvb;
   font-family: var(--main-font), sans-serif;
-  font-variation-settings: 'wdth' var(--body-font-weight);
+  font-variation-settings: "wdth" var(--body-font-weight);
   background-image: var(--background-gradient);
   background-size: cover;
 }
@@ -11,7 +11,6 @@
   inline-size: var(--inline-size);
   background-color: #fff;
   border: 2px solid var(--accent-color);
-
 }
 
 .header {
@@ -19,7 +18,6 @@
   font-family: var(--accent-font), sans-serif;
   text-transform: uppercase;
   padding: var(--header-padding-vertical) var(--header-padding-horizontal);
-
 }
 
 .header-title {
@@ -39,7 +37,7 @@
 
 .card-image {
   inline-size: 100%;
-  aspect-ratio: 1 / 1; 
+  aspect-ratio: 1 / 1;
   object-fit: cover;
   object-position: right;
   border-top: 2px solid var(--accent-color);
@@ -62,8 +60,10 @@
   opacity: 0.5;
 }
 
-@supports ((text-stroke: 1px var(--label-border)) or 
-           (-webkit-text-stroke: 1px var(--label-border))) {
+@supports (
+  (text-stroke: 1px var(--label-border)) or
+    (-webkit-text-stroke: 1px var(--label-border))
+) {
   .label {
     text-stroke: 1px var(--label-border);
     -webkit-text-stroke: 1px var(--label-border);
@@ -73,7 +73,7 @@
 .main-block-title {
   min-block-size: 30px;
   padding: 4px 10px;
-  font-variation-settings: 'wdth' var(--title-font-weight);
+  font-variation-settings: "wdth" var(--title-font-weight);
 }
 
 .main-block-text {
@@ -213,8 +213,9 @@
   box-shadow: 2px 2px 0 0 var(--accent-color);
 }
 
-.card__like-button::before, .button-save::before {
-  content: '';
+.card__like-button::before,
+.button-save::before {
+  content: "";
   position: absolute;
   inset: 0;
   background-color: #000000;
@@ -224,7 +225,8 @@
   z-index: 1;
 }
 
-.card__like-button:hover::before, .button-save:hover::before {
+.card__like-button:hover::before,
+.button-save:hover::before {
   transform: scaleX(1);
 }
 
@@ -266,16 +268,16 @@
 
 dialog {
   position: fixed;
-  inset: 0;  
+  inset: 0;
   font-family: var(--accent-font), sans-serif;
-} 
+}
 
 dialog[open] {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    padding: 30px;
-    block-size: 191px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 30px;
+  block-size: 191px;
 }
 
 dialog::backdrop {
@@ -285,7 +287,7 @@ dialog::backdrop {
 .dialog-floppy {
   width: 38px;
   height: 38px;
-  flex-shrink: 0; 
+  flex-shrink: 0;
 }
 
 .dialog-title {
