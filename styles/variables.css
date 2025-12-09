@@ -12,4 +12,35 @@
   --header-padding-vertical: clamp(122px, 122px + (8 * (100vw - 375px) / 1065), 130px);
   --header-padding-horizontal: clamp(16px, 16px + (106.5 * (100vw - 375px) / 1065), 122.5px);
   --label-border: rgba(255, 255, 255, 1);
+  --main-color: #fff;
+  --accent-color: #000;
+}
+
+@media (width <= 375px) {
+  body .header {
+    max-block-size: 327px;
+    margin-bottom: 100px;
+  }
+
+  main .button-save {
+    flex-direction: column;
+    block-size: 84px;
+    padding: 17px 20px;
+  }
+
+  .button-save .floppy {
+  width: 28px;
+  height: 28px;
+  flex-shrink: 0; 
+  }
+
+  dialog[open] {
+    padding: 30px 40px;
+  }
+
+  dialog[open] .floppy {
+  width: 39px;
+  height: 39px;
+  flex-shrink: 0; 
+  }
 }

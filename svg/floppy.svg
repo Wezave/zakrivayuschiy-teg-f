@@ -1,82 +1,88 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 39 39" fill="none">
-<rect width="3" height="3" fill="black"></rect>
-<rect y="3" width="3" height="3" fill="black"></rect>
-<rect y="6" width="3" height="3" fill="black"></rect>
-<rect y="9" width="3" height="3" fill="black"></rect>
-<rect y="12" width="3" height="3" fill="black"></rect>
-<rect y="15" width="3" height="3" fill="black"></rect>
-<rect y="18" width="3" height="3" fill="black"></rect>
-<rect y="21" width="3" height="3" fill="black"></rect>
-<rect y="24" width="3" height="3" fill="black"></rect>
-<rect y="27" width="3" height="3" fill="black"></rect>
-<rect y="30" width="3" height="3" fill="black"></rect>
-<rect y="33" width="3" height="3" fill="black"></rect>
-<rect y="36" width="3" height="3" fill="black"></rect>
-<rect x="33" width="3" height="3" transform="rotate(90 33 0)" fill="black"></rect>
-<rect x="30" width="3" height="3" transform="rotate(90 30 0)" fill="black"></rect>
-<rect x="27" width="3" height="3" transform="rotate(90 27 0)" fill="black"></rect>
-<rect x="24" width="3" height="3" transform="rotate(90 24 0)" fill="black"></rect>
-<rect x="21" width="3" height="3" transform="rotate(90 21 0)" fill="black"></rect>
-<rect x="18" width="3" height="3" transform="rotate(90 18 0)" fill="black"></rect>
-<rect x="15" width="3" height="3" transform="rotate(90 15 0)" fill="black"></rect>
-<rect x="12" width="3" height="3" transform="rotate(90 12 0)" fill="black"></rect>
-<rect x="9" width="3" height="3" transform="rotate(90 9 0)" fill="black"></rect>
-<rect x="6" width="3" height="3" transform="rotate(90 6 0)" fill="black"></rect>
-<rect x="36" y="3" width="3" height="3" transform="rotate(90 36 3)" fill="black"></rect>
-<rect x="9" y="6" width="3" height="3" transform="rotate(90 9 6)" fill="black"></rect>
-<rect x="9" y="3" width="3" height="3" transform="rotate(90 9 3)" fill="black"></rect>
-<rect x="9" y="9" width="3" height="3" transform="rotate(90 9 9)" fill="black"></rect>
-<rect x="30" y="6" width="3" height="3" transform="rotate(90 30 6)" fill="black"></rect>
-<rect x="30" y="3" width="3" height="3" transform="rotate(90 30 3)" fill="black"></rect>
-<rect x="30" y="9" width="3" height="3" transform="rotate(90 30 9)" fill="black"></rect>
-<rect x="24" y="6" width="3" height="3" transform="rotate(90 24 6)" fill="black"></rect>
-<rect x="24" y="3" width="3" height="3" transform="rotate(90 24 3)" fill="black"></rect>
-<rect x="24" y="9" width="3" height="3" transform="rotate(90 24 9)" fill="black"></rect>
-<rect x="30" y="12" width="3" height="3" transform="rotate(90 30 12)" fill="black"></rect>
-<rect x="27" y="12" width="3" height="3" transform="rotate(90 27 12)" fill="black"></rect>
-<rect x="24" y="12" width="3" height="3" transform="rotate(90 24 12)" fill="black"></rect>
-<rect x="21" y="12" width="3" height="3" transform="rotate(90 21 12)" fill="black"></rect>
-<rect x="18" y="12" width="3" height="3" transform="rotate(90 18 12)" fill="black"></rect>
-<rect x="15" y="12" width="3" height="3" transform="rotate(90 15 12)" fill="black"></rect>
-<rect x="12" y="12" width="3" height="3" transform="rotate(90 12 12)" fill="black"></rect>
-<rect x="9" y="12" width="3" height="3" transform="rotate(90 9 12)" fill="black"></rect>
-<rect x="33" y="21" width="3" height="3" transform="rotate(90 33 21)" fill="black"></rect>
-<rect x="30" y="21" width="3" height="3" transform="rotate(90 30 21)" fill="black"></rect>
-<rect x="27" y="21" width="3" height="3" transform="rotate(90 27 21)" fill="black"></rect>
-<rect x="24" y="21" width="3" height="3" transform="rotate(90 24 21)" fill="black"></rect>
-<rect x="21" y="21" width="3" height="3" transform="rotate(90 21 21)" fill="black"></rect>
-<rect x="18" y="21" width="3" height="3" transform="rotate(90 18 21)" fill="black"></rect>
-<rect x="15" y="21" width="3" height="3" transform="rotate(90 15 21)" fill="black"></rect>
-<rect x="12" y="21" width="3" height="3" transform="rotate(90 12 21)" fill="black"></rect>
-<rect x="9" y="21" width="3" height="3" transform="rotate(90 9 21)" fill="black"></rect>
-<rect x="33" y="24" width="3" height="3" transform="rotate(90 33 24)" fill="black"></rect>
-<rect x="9" y="24" width="3" height="3" transform="rotate(90 9 24)" fill="black"></rect>
-<rect x="33" y="27" width="3" height="3" transform="rotate(90 33 27)" fill="black"></rect>
-<rect x="9" y="27" width="3" height="3" transform="rotate(90 9 27)" fill="black"></rect>
-<rect x="33" y="30" width="3" height="3" transform="rotate(90 33 30)" fill="black"></rect>
-<rect x="9" y="30" width="3" height="3" transform="rotate(90 9 30)" fill="black"></rect>
-<rect x="9" y="33" width="3" height="3" transform="rotate(90 9 33)" fill="black"></rect>
-<rect x="33" y="33" width="3" height="3" transform="rotate(90 33 33)" fill="black"></rect>
-<rect x="36" y="36" width="3" height="3" transform="rotate(90 36 36)" fill="black"></rect>
-<rect x="33" y="36" width="3" height="3" transform="rotate(90 33 36)" fill="black"></rect>
-<rect x="30" y="36" width="3" height="3" transform="rotate(90 30 36)" fill="black"></rect>
-<rect x="27" y="36" width="3" height="3" transform="rotate(90 27 36)" fill="black"></rect>
-<rect x="24" y="36" width="3" height="3" transform="rotate(90 24 36)" fill="black"></rect>
-<rect x="21" y="36" width="3" height="3" transform="rotate(90 21 36)" fill="black"></rect>
-<rect x="18" y="36" width="3" height="3" transform="rotate(90 18 36)" fill="black"></rect>
-<rect x="15" y="36" width="3" height="3" transform="rotate(90 15 36)" fill="black"></rect>
-<rect x="12" y="36" width="3" height="3" transform="rotate(90 12 36)" fill="black"></rect>
-<rect x="9" y="36" width="3" height="3" transform="rotate(90 9 36)" fill="black"></rect>
-<rect x="6" y="36" width="3" height="3" transform="rotate(90 6 36)" fill="black"></rect>
-<rect x="39" y="39" width="3" height="3" transform="rotate(-180 39 39)" fill="black"></rect>
-<rect x="39" y="36" width="3" height="3" transform="rotate(-180 39 36)" fill="black"></rect>
-<rect x="39" y="33" width="3" height="3" transform="rotate(-180 39 33)" fill="black"></rect>
-<rect x="39" y="30" width="3" height="3" transform="rotate(-180 39 30)" fill="black"></rect>
-<rect x="39" y="27" width="3" height="3" transform="rotate(-180 39 27)" fill="black"></rect>
-<rect x="39" y="24" width="3" height="3" transform="rotate(-180 39 24)" fill="black"></rect>
-<rect x="39" y="21" width="3" height="3" transform="rotate(-180 39 21)" fill="black"></rect>
-<rect x="39" y="18" width="3" height="3" transform="rotate(-180 39 18)" fill="black"></rect>
-<rect x="39" y="15" width="3" height="3" transform="rotate(-180 39 15)" fill="black"></rect>
-<rect x="39" y="12" width="3" height="3" transform="rotate(-180 39 12)" fill="black"></rect>
-<rect x="39" y="9" width="3" height="3" transform="rotate(-180 39 9)" fill="black"></rect>
+<?xml version="1.0"?>
+<svg width="21" height="21" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1">
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="surface1">
+   <path d="m0,0l1.66,0l0,1.66l-1.66,0l0,-1.66zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_1"/>
+   <path d="m0,1.66l1.66,0l0,1.66l-1.66,0l0,-1.66zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_2"/>
+   <path d="m0,3.32l1.66,0l0,1.65l-1.66,0l0,-1.65zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_3"/>
+   <path d="m0,4.97l1.66,0l0,1.66l-1.66,0l0,-1.66zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_4"/>
+   <path d="m0,6.63l1.66,0l0,1.66l-1.66,0l0,-1.66zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_5"/>
+   <path d="m0,8.29l1.66,0l0,1.66l-1.66,0l0,-1.66zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_6"/>
+   <path d="m0,9.95l1.66,0l0,1.66l-1.66,0l0,-1.66zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_7"/>
+   <path d="m0,11.61l1.66,0l0,1.65l-1.66,0l0,-1.65zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_8"/>
+   <path d="m0,13.26l1.66,0l0,1.66l-1.66,0l0,-1.66zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_9"/>
+   <path d="m0,14.92l1.66,0l0,1.66l-1.66,0l0,-1.66zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_10"/>
+   <path d="m0,16.58l1.66,0l0,1.66l-1.66,0l0,-1.66zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_11"/>
+   <path d="m0,18.24l1.66,0l0,1.65l-1.66,0l0,-1.65zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_12"/>
+   <path d="m0,19.89l1.66,0l0,1.66l-1.66,0l0,-1.66zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_13"/>
+   <path d="m18.24,0l0,1.66l-1.66,0l0,-1.66l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_14"/>
+   <path d="m16.58,0l0,1.66l-1.66,0l0,-1.66l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_15"/>
+   <path d="m14.92,0l0,1.66l-1.66,0l0,-1.66l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_16"/>
+   <path d="m13.26,0l0,1.66l-1.65,0l0,-1.66l1.65,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_17"/>
+   <path d="m11.61,0l0,1.66l-1.66,0l0,-1.66l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_18"/>
+   <path d="m9.95,0l0,1.66l-1.66,0l0,-1.66l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_19"/>
+   <path d="m8.29,0l0,1.66l-1.66,0l0,-1.66l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_20"/>
+   <path d="m6.63,0l0,1.66l-1.66,0l0,-1.66l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_21"/>
+   <path d="m4.97,0l0,1.66l-1.65,0l0,-1.66l1.65,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_22"/>
+   <path d="m3.32,0l0,1.66l-1.66,0l0,-1.66l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_23"/>
+   <path d="m19.89,1.66l0,1.66l-1.65,0l0,-1.66l1.65,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_24"/>
+   <path d="m4.97,3.32l0,1.65l-1.65,0l0,-1.65l1.65,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_25"/>
+   <path d="m4.97,1.66l0,1.66l-1.65,0l0,-1.66l1.65,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_26"/>
+   <path d="m4.97,4.97l0,1.66l-1.65,0l0,-1.66l1.65,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_27"/>
+   <path d="m16.58,3.32l0,1.65l-1.66,0l0,-1.65l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_28"/>
+   <path d="m16.58,1.66l0,1.66l-1.66,0l0,-1.66l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_29"/>
+   <path d="m16.58,4.97l0,1.66l-1.66,0l0,-1.66l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_30"/>
+   <path d="m13.26,3.32l0,1.65l-1.65,0l0,-1.65l1.65,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_31"/>
+   <path d="m13.26,1.66l0,1.66l-1.65,0l0,-1.66l1.65,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_32"/>
+   <path d="m13.26,4.97l0,1.66l-1.65,0l0,-1.66l1.65,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_33"/>
+   <path d="m16.58,6.63l0,1.66l-1.66,0l0,-1.66l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_34"/>
+   <path d="m14.92,6.63l0,1.66l-1.66,0l0,-1.66l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_35"/>
+   <path d="m13.26,6.63l0,1.66l-1.65,0l0,-1.66l1.65,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_36"/>
+   <path d="m11.61,6.63l0,1.66l-1.66,0l0,-1.66l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_37"/>
+   <path d="m9.95,6.63l0,1.66l-1.66,0l0,-1.66l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_38"/>
+   <path d="m8.29,6.63l0,1.66l-1.66,0l0,-1.66l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_39"/>
+   <path d="m6.63,6.63l0,1.66l-1.66,0l0,-1.66l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_40"/>
+   <path d="m4.97,6.63l0,1.66l-1.65,0l0,-1.66l1.65,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_41"/>
+   <path d="m18.24,11.61l0,1.65l-1.66,0l0,-1.65l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_42"/>
+   <path d="m16.58,11.61l0,1.65l-1.66,0l0,-1.65l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_43"/>
+   <path d="m14.92,11.61l0,1.65l-1.66,0l0,-1.65l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_44"/>
+   <path d="m13.26,11.61l0,1.65l-1.65,0l0,-1.65l1.65,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_45"/>
+   <path d="m11.61,11.61l0,1.65l-1.66,0l0,-1.65l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_46"/>
+   <path d="m9.95,11.61l0,1.65l-1.66,0l0,-1.65l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_47"/>
+   <path d="m8.29,11.61l0,1.65l-1.66,0l0,-1.65l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_48"/>
+   <path d="m6.63,11.61l0,1.65l-1.66,0l0,-1.65l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_49"/>
+   <path d="m4.97,11.61l0,1.65l-1.65,0l0,-1.65l1.65,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_50"/>
+   <path d="m18.24,13.26l0,1.66l-1.66,0l0,-1.66l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_51"/>
+   <path d="m4.97,13.26l0,1.66l-1.65,0l0,-1.66l1.65,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_52"/>
+   <path d="m18.24,14.92l0,1.66l-1.66,0l0,-1.66l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_53"/>
+   <path d="m4.97,14.92l0,1.66l-1.65,0l0,-1.66l1.65,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_54"/>
+   <path d="m18.24,16.58l0,1.66l-1.66,0l0,-1.66l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_55"/>
+   <path d="m4.97,16.58l0,1.66l-1.65,0l0,-1.66l1.65,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_56"/>
+   <path d="m4.97,18.24l0,1.65l-1.65,0l0,-1.65l1.65,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_57"/>
+   <path d="m18.24,18.24l0,1.65l-1.66,0l0,-1.65l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_58"/>
+   <path d="m19.89,19.89l0,1.66l-1.65,0l0,-1.66l1.65,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_59"/>
+   <path d="m18.24,19.89l0,1.66l-1.66,0l0,-1.66l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_60"/>
+   <path d="m16.58,19.89l0,1.66l-1.66,0l0,-1.66l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_61"/>
+   <path d="m14.92,19.89l0,1.66l-1.66,0l0,-1.66l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_62"/>
+   <path d="m13.26,19.89l0,1.66l-1.65,0l0,-1.66l1.65,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_63"/>
+   <path d="m11.61,19.89l0,1.66l-1.66,0l0,-1.66l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_64"/>
+   <path d="m9.95,19.89l0,1.66l-1.66,0l0,-1.66l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_65"/>
+   <path d="m8.29,19.89l0,1.66l-1.66,0l0,-1.66l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_66"/>
+   <path d="m6.63,19.89l0,1.66l-1.66,0l0,-1.66l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_67"/>
+   <path d="m4.97,19.89l0,1.66l-1.65,0l0,-1.66l1.65,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_68"/>
+   <path d="m3.32,19.89l0,1.66l-1.66,0l0,-1.66l1.66,0zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_69"/>
+   <path d="m21.55,21.55l-1.66,0l0,-1.66l1.66,0l0,1.66zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_70"/>
+   <path d="m21.55,19.89l-1.66,0l0,-1.65l1.66,0l0,1.65zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_71"/>
+   <path d="m21.55,18.24l-1.66,0l0,-1.66l1.66,0l0,1.66zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_72"/>
+   <path d="m21.55,16.58l-1.66,0l0,-1.66l1.66,0l0,1.66zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_73"/>
+   <path d="m21.55,14.92l-1.66,0l0,-1.66l1.66,0l0,1.66zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_74"/>
+   <path d="m21.55,13.26l-1.66,0l0,-1.65l1.66,0l0,1.65zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_75"/>
+   <path d="m21.55,11.61l-1.66,0l0,-1.66l1.66,0l0,1.66zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_76"/>
+   <path d="m21.55,9.95l-1.66,0l0,-1.66l1.66,0l0,1.66zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_77"/>
+   <path d="m21.55,8.29l-1.66,0l0,-1.66l1.66,0l0,1.66zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_78"/>
+   <path d="m21.55,6.63l-1.66,0l0,-1.66l1.66,0l0,1.66zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_79"/>
+   <path d="m21.55,4.97l-1.66,0l0,-1.65l1.66,0l0,1.65zm0,0" fill="currentColor" fill-rule="nonzero" id="svg_80"/>
+  </g>
+ </g>
 </svg>
