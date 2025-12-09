@@ -14,6 +14,7 @@
   --label-border: rgba(255, 255, 255, 1);
   --main-color: #fff;
   --accent-color: #000;
+  --animation-fill-color: #ff0000;
 }
 
 @media (width <= 375px) {
