@@ -1,6 +1,6 @@
 :root {
   --main-font: "Inter-Variable";
-  --accent-font: "PressStart2P-Regular";
+  --accent-font: "PressStart2P";
   --body-font-weight: 410;
   --title-font-weight: 715;
   --background-gradient:
@@ -24,33 +24,4 @@
   --main-color: #fff;
   --accent-color: #000;
   --animation-fill-color: #ff0000;
-}
-
-@media (width <= 375px) {
-  body .header {
-    max-block-size: 327px;
-    margin-bottom: 100px;
-  }
-
-  main .button-save {
-    flex-direction: column;
-    block-size: 84px;
-    padding: 17px 20px;
-  }
-
-  .button-save .floppy {
-    width: 28px;
-    height: 28px;
-    flex-shrink: 0;
-  }
-
-  dialog[open] {
-    padding: 30px 40px;
-  }
-
-  dialog[open] .floppy {
-    width: 39px;
-    height: 39px;
-    flex-shrink: 0;
-  }
 }
