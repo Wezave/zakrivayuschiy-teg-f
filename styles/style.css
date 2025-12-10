@@ -85,7 +85,7 @@
 
 .main-block-text {
   padding: 0px 27px 24px;
-  font-size: 19px; /*18px мало, не походит на макет*/
+  font-size: 18px;
   line-height: 21px;
 }
 
@@ -239,8 +239,8 @@
   z-index: 1;
 }
 
-.card__like-button:hover::before,
-.button-save:hover::before {
+.card__like-button:hover::before, /* Замечание: При наведении и снятии курсора с кнопок, содержащих текст (Like, Сохранить на память, Ок), текст и иконка дискеты должны оставаться видимыми. */
+.button-save:hover::before {      /*Все видно, ничего не пропадает, замечание не понял. Вот скрин с моего сайта при наведении https://disk.yandex.com/i/k0_Rlv-QkkaHdA*/
   transform: scaleX(1);
 }
 
@@ -302,7 +302,7 @@ dialog::backdrop {
   line-height: 150%;
 }
 
-.dialog-first-row {
+.dialog-text-row {
   display: flex;
   align-items: center;
   max-inline-size: 293px;
@@ -315,9 +315,14 @@ dialog::backdrop {
   }
 
   main .button-save {
-    flex-direction: column;
     block-size: 84px;
-    padding: 17px 20px;
+    inline-size: 306px;
+    padding: 17px 18px;
+  }
+
+  .button-save .button__text {
+    display: flex;
+    flex-direction: column;
   }
 
   .button-save .floppy {
